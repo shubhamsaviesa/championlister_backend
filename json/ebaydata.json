@@ -1,0 +1,52 @@
+{
+    "requests": [
+        {
+            "availability": {
+                "shipToLocationAvailability": {
+                    "quantity": 50
+                }
+            },
+            "condition": "NEW",
+            "conditionDescription": "Just uploded",
+            "locale": "en_US",
+            "packageWeightAndSize": {
+                "dimensions": {
+                    "height": "1",
+                    "length": "1",
+                    "unit": "FEET",
+                    "width": "1"
+                },
+                "packageType": "VERY_LARGE_PACK",
+                "weight": {
+                    "unit": "KILOGRAM",
+                    "value": "1"
+                }
+            },
+            "product": {
+                "aspects": "good",
+                "brand": "ncrt",
+                "description": "nice book",
+                "ean": [
+                    "test"
+                ],
+                "epid": "1234567",
+                "imageUrls": [
+                    "https://i5.walmartimages.com/asr/8e517c62-b3a0-4c3f-9b62-576e4686614f.bca27434aa9bb91c79125b807c027556.jpeg"
+                ],
+                "isbn": [
+                    "1234567890123"
+                ],
+                "mpn": "testing",
+                "subtitle": "test",
+                "title": "biology",
+                "upc": [
+                    "1234567890"
+                ],
+                "videoIds": [
+                    "1234"
+                ]
+            },
+            "sku": "11223344"
+        }
+    ]
+}

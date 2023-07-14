@@ -1,0 +1,28 @@
+{
+  "header": {
+    "sellerId": "ASHC09BMK0BYE",
+    "version": "2.0",
+    "issueLocale": "en_US"
+  },
+  "messages": [
+    {
+      "messageId": 1,
+      "sku": "My-SKU-A",
+      "operationType": "PATCH",
+      "productType": "LUGGAGE",
+      "patches": [
+        {
+          "op": "add",
+          "path": "/attributes/fulfillment_availability",
+          "value": [
+            {
+              "fulfillment_channel_code": "DEFAULT",
+              "quantity": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

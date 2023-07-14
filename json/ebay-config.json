@@ -1,0 +1,9 @@
+{
+    "SANDBOX": {
+        "clientId": "EverestV-Bookcomm-SBX-b13f4a5b2-1d384885",
+        "clientSecret": "SBX-13f4a5b29764-c549-414a-8d45-81b3",
+        "devid": "072d4c9c-a370-455e-bec9-b87452ca4ffb",
+        "redirectUri": "Everest_Venture-EverestV-Bookco-rxwzo",
+        "baseUrl": "api.sandbox.ebay.com" 
+    }
+}

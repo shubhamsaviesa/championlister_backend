@@ -1,0 +1,1 @@
+{"?xml":"","AmazonEnvelope":{"Header":{"DocumentVersion":1.02,"MerchantIdentifier":"ASHC09BMK0BYE"},"MessageType":"ProcessingReport","Message":{"MessageID":1,"ProcessingReport":{"DocumentTransactionID":50079019320,"StatusCode":"Complete","ProcessingSummary":{"MessagesProcessed":1,"MessagesSuccessful":1,"MessagesWithError":0,"MessagesWithWarning":0}}}}}

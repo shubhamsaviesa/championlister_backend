@@ -1,0 +1,52 @@
+{
+  "MPItemFeedHeader": {
+    "sellingChannel": "marketplace",
+    "processMode": "REPLACE",
+    "subset": "EXTERNAL",
+    "locale": "en",
+    "version": "4.7",
+    "subCategory": "art_and_craft_other"
+  },
+  "MPItem": [
+    {
+      "Orderable": {
+        "sku": "0652383xxxxxxx",
+        "productIdentifiers": {
+          "productIdType": "GTIN",
+          "productId": "00466260xxxxxx"
+        },
+        "productName": "Bright Sign Unfinished Wood Cutout Home Decor DIY Option 2- 30\" Wide / 1/2\"",
+        "brand": "24 Hour Crafts",
+        "price": 1,
+        "ShippingWeight": 1,
+        "shipsInOriginalPackaging": "No",
+        "MustShipAlone": "No"
+      },
+      "Visible": {
+        "Art & Craft": {
+          "shortDescription": "Welcome to 24 Hour Crafts! This unfinished wood product comes as sanded natural wood with lightly burned edges from laser cutting. The Shapes are available from 5 inches up to 24 inches. Shipped in under 24 hours or it's free! These are cut from 1/8 or 1/4 inch cabinet grade birch plywood. If you're interested in another thickness please message us! WHY BUY FROM US? We make all our products by hand in the suburbs of Pittsburgh. We operate this small business with an attention to detail that can be seen in the quality of our finished products. QUESTIONS? If you have any questions about this product, please click the 'Message Seller' button, and we will be happy to assist you! THANK YOU for shopping with 24 Hour Crafts!",
+          "mainImageUrl": "https://i5-qa.walmartimages.com/asr/81bcc57c-9142-4ab6-a3ba-0b7306fc23f7.d0ae842831d3a85870b62ab1381675e5.jpeg",
+          "productSecondaryImageURL": [
+            "https://i5-qa.walmartimages.com/asr/08a3c783-16e7-4ae9-a48d-5b4b9c2f3d7e.2bbca27014bf466c457c8937493c4bfb.jpeg",
+            "https://i5-qa.walmartimages.com/asr/1f0cace9-9724-4bc4-884c-d2f972659e8e.492c06869e1cdf04da60d983f8aac511.jpeg"
+          ],
+          "keyFeatures": [
+            "<ul><li>Made in the USA</li><li>Ships in 24 Hours</li><li>Made from Cabinet grade baltic birch plywood.</li></ul>"
+          ],
+          "manufacturer": "24 Hour Crafts",
+          "color": [
+            "Natural Wood"
+          ],
+          "colorCategory": [
+            "Brown"
+          ],
+          "material": [
+            "1/2\" Thick Wood"
+          ],
+          "size": "30\"",
+          "gender": "Unisex"
+        }
+      }
+    }
+  ]
+}

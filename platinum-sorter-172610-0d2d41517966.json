@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "platinum-sorter-172610",
+  "private_key_id": "0d2d415179663d436fa057b60c9bfed490445f78",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsHnYH9tBLA2BP\nkqa0njlKYj9YsOawiqIwZk/PAu6kOQ9Uzm2hWd8fLD+SXYxVdZAOyMyghA8gf/ka\nHkqf9EU33DxO/5qdJe9MfDqGPxMQmKVECEVFdJbHMC+Qiv4OuDZm1UkQFHK/CjnX\nuI0FQ56Uo5y7DEkqm/qFYB0S8QklmVU1Hy6i0X1LQ6juHvQOflmEesuq4rYOHHyb\nBbUKf1DdWp+i8URoAb/iua9foQFxVm3k1B0eRaR0E9lstVkiFNyrcly03hT2CCDF\nsvGbRzztmgo/gwD9oMNHuWofHY9uPa5DhuRp4chI+N07DUGDytNmgr7qoqw+tjHG\nVdUhUBedAgMBAAECggEAAu4FXTRzpzbIYyCVtBR52LsuD/jdkNdLRiJNCXnu21BS\nqnw5DfNjdHN/CKM35ocqqCP9iXpgp4pNOzHqlQypnWjqTBwr8SKhgQkf3QPM87iz\nrMzJBKEy+oEDByWBMutjXh6FFE5TBbLLTpi6Dco3+3wtelp/oMdhlhOdo/eRC9j9\nl4WxEeqJmCi3JtVGfSHb2ikhvR4NQIyjKe7D2fLGkP9oQfCDDy2Y5sZF39zY2dRC\nMfAheh6V/kyvWAVqvazBBwdTF0KB0zruj7n6ISQzC3lCKu4g/Bq+eRyJLbFfa9Tt\nx70jbUxZQQExLnDYKL7XkYRlIqM+Qefmut0PMWUaIQKBgQDlSuK07PdO6hZ3hDRX\ntUxkCjw2D/xzC4tTD4L5CCPlRqNEgc4Fd8640YsHA09kPgLrdi5avb1SPGv542m8\n+s8G3v0p9rVUFGLTEXjqm6yWd1lJrpFYSMGtZGr8XDQsfbnOxMfs53G5UTsN7BBK\nCXoACpTgXDVIYVclU5+bury7zwKBgQDAKsHy94XyMovLurK4wvutXVvhEq+phu1T\nsJnimjt7CqLfnS/4OhhJlSU6OqYai+gbON+5FuE7eVYBIjX3PJpg3RqNBk8Otevg\n+39dLhaHH5eUKAcy5zc6INS8mYeGQiFjA3tVZR2SvKL+g1rqq4BIKNbspjTilMR8\nnecdz0D00wKBgQCmGXhfHiYM+ZBq5c9RFhmPgsaZVz1GTb+Q3PTA1//A0Ennj6yh\n02diBRGUc/ZoJG/TCFqOC1MBJpoFfJMVfg7I6HI2muxCSz5HrimMslb07OI2eQn7\nDUGYDN1fkJ+O90jJm01EtWhxmYGRFUe7il/hdcjhOoqysykA9jHyCvU7iwKBgQCw\n4mq2oBrejqJZfFfodCpAMTBSo+Wn8XfhUizEBd38axTzKnguUCNtD+k9iSC+TMvw\nytA8ShA2s4Bz+K6eDl24Da3T49u/mbsu07Ev7y1zYaQgDxxZQbV3PyMzG0tBTPv4\nbQsI1tN670JFblmwqv6g7V6wZGlHq1KVtq83pD+RWwKBgCtbztwPGNkkutzPebYW\nq89in8zy2NCSzYoTD/2xj8ookYtG6v4veFrt2ZglzN3QrXdV3NDbdJyIgNoeXCGj\nn3BiqHneRo8XJBArVPlAJ479SkUGRFGEP9qAMOdSf6UFNP4EitoO6wBNFa/VPcpE\nh1n2tfAEtxuT9nWzXcvYZiHe\n-----END PRIVATE KEY-----\n",
+  "client_email": "bookcommerce@platinum-sorter-172610.iam.gserviceaccount.com",
+  "client_id": "118060688182936885626",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bookcommerce%40platinum-sorter-172610.iam.gserviceaccount.com"
+}
